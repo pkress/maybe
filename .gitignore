@@ -50,3 +50,6 @@
 
 # Ignore .devcontainer files
 compose-dev.yaml
+
+# Ignore credentials
+/config/creds/
